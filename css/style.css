@@ -1758,4 +1758,39 @@ nav ul.active{
 .dark-mode .logo span {
     color: #2563EB;
 }
+.project-image {
+    width: 100%;
+    margin: 25px auto;
+    text-align: center;
+}
+
+.project-image {
+    width: 100%;
+    text-align: center;
+    margin: 25px auto;
+}
+
+.project-image img {
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+    display: inline-block;
+    object-fit: contain;
+    border-radius: 10px;
+}
+
+    .project-image {
+        width: 100%;
+        padding: 0 10px;
+        box-sizing: border-box;
+    }
+
+    .project-image img {
+        width: 80%;
+        height: auto;
+        max-width: 100%;
+        object-fit: contain;
+        border-radius: 8px;
+    }
+
 @media (max-width: 768px)
