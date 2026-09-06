@@ -832,7 +832,7 @@ text-align:center;
 }
 .contact-item a{
 
-    color:#475569;
+    color:#2563EB;
 
     text-decoration:none;
 
@@ -1643,7 +1643,7 @@ nav ul.active{
 }
 .project-gallery {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr;
     gap: 25px;
     margin-top: 25px;
 }
